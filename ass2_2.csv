@@ -1,0 +1,53 @@
+antecedent,consequent,confidence,lift
+['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple'],['Sri Chiang Mai Community Health Park>Naga Courtyard'],0.820987654,3.056320029
+['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple'],['Naga Courtyard>Sri Chiang Mai Community Health Park'],0.912393162,3.033528401
+['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple'],['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],0.825973409,2.131339457
+['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple'],['In front of Had Pathum Temple>Naga Courtyard'],0.887226971,3.156326109
+['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple'],['In front of Fresh Market>In front of Fresh Market'],0.812440646,2.095077414
+"['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple', 'Sri Chiang Mai Community Health Park>Naga Courtyard']",['Naga Courtyard>Sri Chiang Mai Community Health Park'],0.993637941,3.303651363
+"['In front of Had Pathum Temple>Naga Courtyard', 'Naga Courtyard>Sri Chiang Mai Community Health Park']",['Sri Chiang Mai Community Health Park>Naga Courtyard'],0.888832228,3.308887446
+"['In front of Had Pathum Temple>Naga Courtyard', 'Naga Courtyard>Sri Chiang Mai Community Health Park']",['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple'],0.930137685,3.558019558
+['Naga Courtyard>Sri Chiang Mai Community Health Park'],['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],0.817581511,2.109685025
+['Naga Courtyard>Sri Chiang Mai Community Health Park'],['Naga Courtyard>Naga Courtyard'],0.731324804,2.323167437
+['Naga Courtyard>Sri Chiang Mai Community Health Park'],['In front of Fresh Market>In front of Fresh Market'],0.757325629,1.95294983
+['Naga Courtyard>Sri Chiang Mai Community Health Park'],['In front of Had Pathum Temple>Naga Courtyard'],0.80932728,2.879196542
+['Naga Courtyard>Sri Chiang Mai Community Health Park'],['Sri Chiang Mai Community Health Park>Naga Courtyard'],0.864424267,3.218023058
+['Naga Courtyard>Sri Chiang Mai Community Health Park'],['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple'],0.793025175,3.033528401
+['Sri Chiang Mai Community Health Park>Naga Courtyard'],['Naga Courtyard>Sri Chiang Mai Community Health Park'],0.967883549,3.218023058
+['Sri Chiang Mai Community Health Park>Naga Courtyard'],['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],0.85512939,2.206573468
+['Sri Chiang Mai Community Health Park>Naga Courtyard'],['In front of Had Pathum Temple>Naga Courtyard'],0.814001848,2.895826404
+['Sri Chiang Mai Community Health Park>Naga Courtyard'],['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple'],0.798983364,3.056320029
+['Sri Chiang Mai Community Health Park>In front of Fresh Market'],['In front of Fresh Market>In front of Fresh Market'],0.972868217,2.508779243
+['In front of Had Pathum Temple>In front of Had Pathum Temple'],['In front of Fresh Market>In front of Fresh Market'],0.695748095,1.794157058
+['In front of Had Pathum Temple>In front of Had Pathum Temple'],['In front of Had Pathum Temple>Naga Courtyard'],0.69895708,2.486552544
+"['Sri Chiang Mai Community Health Park>Naga Courtyard', 'In front of Had Pathum Temple>Naga Courtyard']",['Naga Courtyard>Sri Chiang Mai Community Health Park'],0.989497587,3.289885499
+"['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple', 'In front of Had Pathum Temple>Naga Courtyard']",['Naga Courtyard>Sri Chiang Mai Community Health Park'],0.976184105,3.24562078
+['In front of Fresh Market>In front of Fresh Market'],['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],0.596991037,1.540473989
+['In front of Fresh Market>In front of Fresh Market'],['In front of Had Pathum Temple>In front of Had Pathum Temple'],0.55521767,1.794157058
+['In front of Fresh Market>In front of Fresh Market'],['Naga Courtyard>Sri Chiang Mai Community Health Park'],0.587387964,1.95294983
+['In front of Fresh Market>In front of Fresh Market'],['In front of Had Pathum Temple>Naga Courtyard'],0.557298335,1.98259898
+['In front of Fresh Market>In front of Fresh Market'],['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple'],0.547695262,2.095077414
+['In front of Fresh Market>In front of Fresh Market'],['Sri Chiang Mai Community Health Park>In front of Fresh Market'],0.562419974,2.508779243
+"['Sri Chiang Mai Community Health Park>Naga Courtyard', 'Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park']",['Naga Courtyard>Sri Chiang Mai Community Health Park'],0.977033234,3.248443968
+['In front of Had Pathum Temple>Naga Courtyard'],['Naga Courtyard>Sri Chiang Mai Community Health Park'],0.865974829,2.879196542
+['In front of Had Pathum Temple>Naga Courtyard'],['In front of Had Pathum Temple>In front of Had Pathum Temple'],0.769485538,2.486552544
+['In front of Had Pathum Temple>Naga Courtyard'],['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],0.750717598,1.937149573
+['In front of Had Pathum Temple>Naga Courtyard'],['In front of Fresh Market>In front of Fresh Market'],0.76882314,1.98259898
+['In front of Had Pathum Temple>Naga Courtyard'],['Sri Chiang Mai Community Health Park>Naga Courtyard'],0.777875911,2.895826404
+['In front of Had Pathum Temple>Naga Courtyard'],['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple'],0.82512696,3.156326109
+['In front of Had Pathum Temple>Naga Courtyard'],['Naga Courtyard>In front of Had Pathum Temple'],0.830867741,3.409816874
+"['Naga Courtyard>Sri Chiang Mai Community Health Park', 'Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park']",['Sri Chiang Mai Community Health Park>Naga Courtyard'],0.912670369,3.39763054
+['Naga Courtyard>In front of Had Pathum Temple'],['In front of Had Pathum Temple>Naga Courtyard'],0.958481915,3.409816874
+['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],['In front of Fresh Market>In front of Fresh Market'],0.597373479,1.540473989
+['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],['Naga Courtyard>Naga Courtyard'],0.545643818,1.733322791
+['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],['Naga Courtyard>Sri Chiang Mai Community Health Park'],0.634529148,2.109685025
+['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],['In front of Had Pathum Temple>Naga Courtyard'],0.544522742,1.937149573
+['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],['Sri Chiang Mai Community Health Park>Naga Courtyard'],0.59272902,2.206573468
+['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple'],0.557174888,2.131339457
+"['Sri Chiang Mai Community Health Park>Naga Courtyard', 'Naga Courtyard>Sri Chiang Mai Community Health Park']",['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],0.863213177,2.22743285
+"['Sri Chiang Mai Community Health Park>Naga Courtyard', 'Naga Courtyard>Sri Chiang Mai Community Health Park']",['In front of Had Pathum Temple>Naga Courtyard'],0.832179518,2.960493793
+"['Sri Chiang Mai Community Health Park>Naga Courtyard', 'Naga Courtyard>Sri Chiang Mai Community Health Park']",['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple'],0.820243495,3.137645582
+['Naga Courtyard>Naga Courtyard'],['Sri Chiang Mai Community Health Park>Sri Chiang Mai Community Health Park'],0.671727129,1.733322791
+['Naga Courtyard>Naga Courtyard'],['Naga Courtyard>Sri Chiang Mai Community Health Park'],0.69873817,2.323167437
+"['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple', 'Naga Courtyard>Sri Chiang Mai Community Health Park']",['Sri Chiang Mai Community Health Park>Naga Courtyard'],0.894093156,3.32847249
+"['Sri Chiang Mai Community Health Park>In front of Had Pathum Temple', 'Naga Courtyard>Sri Chiang Mai Community Health Park']",['In front of Had Pathum Temple>Naga Courtyard'],0.949258392,3.377004021
